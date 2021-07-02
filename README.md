@@ -100,3 +100,4 @@ var questions = [
     },
   ];
   
+// rohit your task is create seperate variable and push using for loop or ect  the above object and then access each and every  item in that object for eg access all the question from above object i hope u understand.
